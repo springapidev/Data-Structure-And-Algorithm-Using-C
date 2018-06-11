@@ -31,4 +31,26 @@ Data Structure
  
         -DFS
         -BFS
+        
+        
+   Alogorithm
+   
+   1. divide and Conquer
+   
+        -Merge Sort
+        
+   2. Time Complexiety
+            
+            -Insertion
+            -Recursive
+            
+   3. Greedy
+   
+            -knapsack
+            -Single Fource
+            -Shortest Path
+    
+   4. dynamic Programming
+        
+            -Travelling Sales Person Problem
      
