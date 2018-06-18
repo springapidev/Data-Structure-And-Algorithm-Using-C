@@ -1,7 +1,10 @@
 # Data-Structure-And-Algorithm-Using-C
-This Repo is realted to Data Structure And Algorithm Using C
+This Repo is related to Data Structure And Algorithm Using C
+
+
 Index:
 Data Structure
+
 1. Array
     
     Sorting:
